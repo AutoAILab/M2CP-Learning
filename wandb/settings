@@ -1,0 +1,5 @@
+[default]
+entity = zhiminc
+project = multisemi
+base_url = https://api.wandb.ai
+
