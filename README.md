@@ -44,10 +44,10 @@ python test_12views.py
 
 ```
 ## Pretrained model
+We provide the pre-trained models of [ModelNet40-10%](https://www.dropbox.com/s/wptl91al4jhnwqo/ModelNet40_p10_nt_xw2_aw0_cw9_baseshare_Cos_12views_imgsize224_10w.zip?dl=0)
 
-
-```
 ## Citation
+```
 @article{chen2021multimodal,
   title={Multimodal Semi-Supervised Learning for 3D Objects},
   author={Chen, Zhimin and Jing, Longlong and Liang, Yang and Tian, YingLi and Li, Bing},
