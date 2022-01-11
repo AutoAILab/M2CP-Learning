@@ -17,6 +17,7 @@ We propose a novel multimodal semi-supervised learning framework by introducing 
 
 [Point Clouds](https://www.dropbox.com/s/3fceww74axgvi20/modelnet40_ply_hdf5_2048.zip?dl=0)
 
+
 ## Installation
 Install ```Python``` -- This repo is tested with Python 3.7.6.
 
@@ -40,5 +41,18 @@ The trained model is save in checkpoints file. Remember change the test model na
 
 ```
 python test_12views.py
+
 ```
+## Pretrained model
+
+
+
+## Citation
+@article{chen2021multimodal,
+  title={Multimodal Semi-Supervised Learning for 3D Objects},
+  author={Chen, Zhimin and Jing, Longlong and Liang, Yang and Tian, YingLi and Li, Bing},
+  journal={arXiv preprint arXiv:2110.11601},
+  year={2021}
+}
+
 
