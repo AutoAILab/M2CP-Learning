@@ -46,7 +46,7 @@ python test_12views.py
 ## Pretrained model
 
 
-
+```
 ## Citation
 @article{chen2021multimodal,
   title={Multimodal Semi-Supervised Learning for 3D Objects},
@@ -54,5 +54,5 @@ python test_12views.py
   journal={arXiv preprint arXiv:2110.11601},
   year={2021}
 }
-
+```
 
