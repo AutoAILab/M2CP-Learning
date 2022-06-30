@@ -11,11 +11,11 @@ Arvix version [here](https://arxiv.org/abs/2110.11601)
 We propose a novel multimodal semi-supervised learning framework by introducing instance-level consistency constraint and  a novel multimodal contrastive prototype (M2CP) loss. The instance-level consistency enforces the network to generate consistent representations for multimodal data of the same object regardless of its modality. The M2CP maintains a multimodal prototype for each class and learns features with small intra-class variations by minimizing the feature distance of each object to its prototype while maximizing the distance to the others. Our proposed framework significantly outperforms all the state-of-the-art counterparts for both classification and retrieval tasks by a large margin on the modelNet10 and ModelNet40 datasets.
 
 ## Download Dataset
-[Image](https://www.dropbox.com/s/c7e2d8i6nzrpxnb/ModelNet40-Images-180.zip?dl=0)
+[Image](https://drive.google.com/file/d/1-Gz4HMwM96zEnR3Hji4UEAGB4FPrd5Xo/view?usp=sharing)
 
-[Mesh](https://www.dropbox.com/s/893kdvehf1toc1u/ModelNet40_Mesh.tar?dl=0)
+[Mesh](https://drive.google.com/file/d/1pcOK10d4NrgJzAbqLJFF9hIA43pwiVEH/view?usp=sharing)
 
-[Point Clouds](https://www.dropbox.com/s/3fceww74axgvi20/modelnet40_ply_hdf5_2048.zip?dl=0)
+[Point Clouds](https://drive.google.com/file/d/1VyXh4Q7EJK0uUM6xAgAHyzwpFFui_se4/view?usp=sharing)
 
 
 ## Installation
