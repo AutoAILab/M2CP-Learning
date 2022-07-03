@@ -38,7 +38,6 @@ python train.py
 
 ## Testing
 The trained model is save in checkpoints file. Remember change the test model name in ```test_12views.py``` before testing.
-
 ```
 python test_12views.py
 
