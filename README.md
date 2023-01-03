@@ -42,7 +42,7 @@ The trained model is save in checkpoints file. Remember change the test model na
 python test_12views.py
 ```
 ## Pretrained model
-We provide the pre-trained models of [ModelNet40-10%](https://www.dropbox.com/s/wptl91al4jhnwqo/ModelNet40_p10_nt_xw2_aw0_cw9_baseshare_Cos_12views_imgsize224_10w.zip?dl=0)
+We provide the pre-trained models of [ModelNet40-10%](https://drive.google.com/file/d/1StclCQu9ePoFPGh8jFQWRkYQkYyUxm_9/view?usp=share_link)
 
 ## Citation
 ```
