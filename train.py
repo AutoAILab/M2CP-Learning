@@ -348,7 +348,6 @@ def training(args):
                 center_name = args.save + str(iteration+1) + 'center'
                 np.save(center_name, centers.detach().cpu().numpy())
 
-            iteration = iteration + 1
             if iteration > args.max_step:
                 return
 
